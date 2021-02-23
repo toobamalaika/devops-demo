@@ -1,1 +1,1 @@
-FROM devops-demo
+FROM hello-world
